@@ -1,0 +1,5 @@
+Relatório meteorológico:
+a) Dias com temperatura máxima acima de 30 graus: 19
+b) Dias com diferença de umidade superior a 6: 3
+c) Média da velocidade do vento: 1.73 m/s
+d) Menor pressão mínima: 913.40 no dia 45
